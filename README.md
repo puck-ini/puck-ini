@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/puck-ini"><img src="banner.png" alt="puck-ini Banner"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/puck-ini"><img src="https://github-readme-stats.vercel.app/api?username=puck-ini&hide_border=true&show_icons=true" alt="puck-ini's github stats"></a>
+</p>
 
 <!--
 **puck-ini/puck-ini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![puck-ini's github stats](https://github-readme-stats.vercel.app/api?username=puck-ini&show_icons=true&theme=dracula&hide=stars,issues)
