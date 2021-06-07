@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/puck-ini"><img src="banner.png" alt="puck-ini Banner"></a>
+  <a href="https://github.com/puck-ini"><img src="chaosang.png" alt="puck-ini Banner"></a>
 </p>
 
 <p align="center">
